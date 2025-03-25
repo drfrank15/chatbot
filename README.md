@@ -44,7 +44,7 @@ nano chatbotone.py
 
 Execute the script to start the chatbot:
    ```bash
-   python3 chatbot.py
+   python3 chatbotone.py
    ```
 * You can enter `screen -S chat` before running it to run the script on a minimizable screen in background.
 * To minimize screen: `CTRL+A+D`
