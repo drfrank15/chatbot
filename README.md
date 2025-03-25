@@ -38,7 +38,7 @@ This repository contains a simple automated chatbot built using the [Hyperbolic 
 
 Replace the `YOUR_API_KEY_HERE` in `chatbot.py` with your own [Hyperbolic API Key](https://app.hyperbolic.xyz/settings):
    ```bash
-nano chatbot.py
+nano chatbotone.py
    ```
 5. **Run the Chatbot**
 
